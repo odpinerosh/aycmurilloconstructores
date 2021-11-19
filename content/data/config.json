@@ -6,6 +6,11 @@
         "has_nav": true,
         "nav_links": [
             {
+                "label": "¿Quiénes somos?",
+                "url": "/about",
+                "style": "link"
+            },
+            {
                 "label": "¿Qué hacemos?",
                 "url": "/features",
                 "style": "link"
@@ -13,11 +18,6 @@
             {
                 "label": "Proyectos",
                 "url": "/blog",
-                "style": "link"
-            },
-            {
-                "label": "¿Quiénes somos?",
-                "url": "/about",
                 "style": "link"
             },
             {
