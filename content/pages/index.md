@@ -41,8 +41,8 @@ sections:
             style: secondary
       - title: Instalaciones Hidrosanitarias
         content: >
-          Instalaciones hidráulicas, plomería, impermeabilización y curado de
-          filtraciones.
+          Instalaciones hidráulicas completas para el hogar, plomería,
+          impermeabilización y curado de filtraciones.
         align: left
         image: images/feature.svg
         image_alt: Feature 2 placeholder image
