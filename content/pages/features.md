@@ -17,10 +17,7 @@ sections:
         image: images/feature.svg
         image_alt: Feature 1 placeholder image
         image_position: right
-        actions:
-          - label: Contacto
-            url: /about
-            style: primary
+        actions: []
       - title: Feature 2
         content: >-
           Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
