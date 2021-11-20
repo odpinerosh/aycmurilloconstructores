@@ -2,7 +2,7 @@
 title: Who We Are
 sections:
   - type: hero_section
-    title: Who We Are
+    title: ¿Quiénes somos?
     align: center
   - type: content_section
     content: >-
