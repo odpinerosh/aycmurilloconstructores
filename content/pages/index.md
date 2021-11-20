@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: AyC Murillo Constructores +57(320) 217-2911
+    title: AyC Murillo Constructores
     subtitle: >-
       Llámenos ahora para que conozca más acerca de nuestros servicios
       especializados en construcción, mantenimiento, reparaciones locativas y
