@@ -51,7 +51,7 @@ sections:
           - label: Learn More
             url: /features
             style: secondary
-      - title: Construcción y Ornamentación
+      - title: Construcción y ornamentación
         content: >
           Estructuras en concreto, mampostería, pañete, estuco, soldadura
           eléctrica  y MIG.
