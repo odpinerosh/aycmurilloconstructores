@@ -24,6 +24,10 @@ sections:
       background_image_opacity: 20
       background_image_size: auto
       background_image_repeat: repeat
+  - type: blog_feed_section
+    title: What's New
+    show_recent: true
+    recent_count: 3
   - type: features_section
     title: Features
     features:
@@ -66,10 +70,6 @@ sections:
           - label: Learn More
             url: /features
             style: secondary
-  - type: blog_feed_section
-    title: What's New
-    show_recent: true
-    recent_count: 3
   - type: cta_section
     title: This Is A CTA
     subtitle: >-
