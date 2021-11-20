@@ -31,7 +31,7 @@ seo:
     - name: 'twitter:description'
       value: This is the category archive page
     - name: 'twitter:image'
-      value: images/1.png
+      value: images/2.png
       relativeUrl: true
 layout: advanced
 ---
