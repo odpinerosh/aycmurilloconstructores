@@ -40,7 +40,7 @@ export default class ContactSection extends React.Component {
                             </div>
                         </div>
                         <div className="form-group">
-                            <label id="message-label" htmlFor="message">Message</label>
+                            <label id="message-label" htmlFor="message">Mensage</label>
                             <textarea aria-labelledby="message-label" name="message" id="message" rows="5" placeholder="Your message" />
                         </div>
                         <div className="form-group form-checkbox">
