@@ -13,7 +13,7 @@ sections:
       - label: Contacto
         url: /contact
         style: secondary
-      - label: lorem-ipsum
+      - label: '3213457555'
         url: '#'
         style: link
         new_window: false
