@@ -20,7 +20,7 @@ sections:
       Vamos a trabajar juntos haciendo realidad sus proyectos de construcción y
       mantenimiento.
     actions:
-      - label: Contact Us
+      - label: Contacto
         url: /contact
         style: secondary
     has_background: true
