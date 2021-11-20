@@ -13,6 +13,11 @@ sections:
       - label: Contacto
         url: /contact
         style: secondary
+      - label: lorem-ipsum
+        url: '#'
+        style: link
+        new_window: false
+        no_follow: false
     align: left
     image: images/hero.svg
     image_alt: Hero placeholder image
