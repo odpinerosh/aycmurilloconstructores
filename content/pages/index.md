@@ -39,7 +39,7 @@ sections:
           - label: Learn More
             url: /features
             style: secondary
-      - title: Construcción
+      - title: Instalaciones Hidrosanitarias
         content: >
           Instalaciones hidráulicas, plomería, impermeabilización y curado de
           filtraciones.
