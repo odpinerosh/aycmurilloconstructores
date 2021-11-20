@@ -19,10 +19,9 @@ sections:
         image_position: right
         actions: []
       - title: Instalaciones hidrosanitarias
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: >
+          Instalaciones hidráulicas completas para el hogar, plomería,
+          impermeabilización y curado de filtraciones.
         align: left
         image: images/feature.svg
         image_alt: Feature 2 placeholder image
