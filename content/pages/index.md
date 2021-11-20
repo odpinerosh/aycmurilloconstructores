@@ -52,10 +52,9 @@ sections:
             url: /features
             style: secondary
       - title: Construcción y Ornamentación
-        content: >-
-          Id nibh tortor id aliquet lectus proin. Amet venenatis urna cursus
-          eget nunc. Lacus sed turpis tincidunt id aliquet risus feugiat in
-          ante.
+        content: >
+          Estructuras en concreto, mampostería, pañete, estuco, soldadura
+          eléctrica  y MIG.
         align: left
         image: images/feature.svg
         image_alt: Feature 3 placeholder image
