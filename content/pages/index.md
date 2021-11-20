@@ -3,7 +3,10 @@ title: Home
 sections:
   - type: hero_section
     title: +57(320) 217-2911
-    subtitle: Somos una empresa colombiana dedicada a ofrecer los
+    subtitle: >-
+      Llámenos ahora para que conozca más acerca de nuestros servicios
+      especializados en construcción, mantenimiento, reparaciones locativas y
+      ornamentación.
     actions:
       - label: Más información
         url: /features
