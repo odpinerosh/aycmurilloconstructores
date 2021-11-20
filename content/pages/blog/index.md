@@ -5,7 +5,7 @@ sections:
     title: Blog
     align: center
   - type: blog_feed_section
-    show_recent: false
+    show_recent: true
 seo:
   title: Blog
   description: This is the blog page
