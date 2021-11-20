@@ -6,14 +6,6 @@ sections:
     align: center
   - type: content_section
     content: "AyC Murillo Constructores es una empresa colombiana creada con el objetivo de ayudar a sus clientes a hacer realidad sus proyectos de construcción y mejoras en su hogar. Nuestra organización trabaja con altos estándares de calidad aplicando siempre las normas técnicas vigentes en el país.\_\n\nContamos con personal capacitado para realizar cada proyecto respetando siempre nuestro compromiso\_de realizar un trabajo de resultados satisfactorios para nuestros clientes con precio justo, respetando el cronograma y los estándares de calidad requeridos.\n"
-  - type: team_section
-    title: Our Team
-    team:
-      - content/data/team/miles-tone.yaml
-      - content/data/team/dianne-ameter.yaml
-      - content/data/team/eleanor-carr.yaml
-      - content/data/team/hanson-deck.yaml
-      - content/data/team/gordon-norman.yaml
   - type: cta_section
     title: ¡Cuente con nosotros!
     subtitle: >-
