@@ -3,7 +3,9 @@ title: Features
 sections:
   - type: hero_section
     title: Servicios
-    subtitle: 'Somos expertos en construcción, mantenimiento'
+    subtitle: >-
+      Somos expertos en construcción, mantenimiento, instalaciones y
+      remodelaciones.
     align: center
   - type: features_section
     features:
