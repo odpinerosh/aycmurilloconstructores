@@ -40,10 +40,9 @@ sections:
             url: /features
             style: secondary
       - title: Construcción
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: >
+          Instalaciones hidráulicas, plomería, impermeabilización y curado de
+          filtraciones.
         align: left
         image: images/feature.svg
         image_alt: Feature 2 placeholder image
