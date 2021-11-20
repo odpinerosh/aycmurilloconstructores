@@ -27,7 +27,7 @@ sections:
   - type: features_section
     title: Servicios
     features:
-      - title: Feature 1
+      - title: Reparaciones locativas
         content: >
           Somos expertos en pintura, enchape, terminados de techos en PVC,
           dry-wall e instalaciones eléctricas residenciales
