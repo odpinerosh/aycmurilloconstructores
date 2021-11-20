@@ -44,7 +44,7 @@ sections:
           Instalaciones hidráulicas completas para el hogar, plomería,
           impermeabilización y curado de filtraciones.
         align: left
-        image: images/feature.svg
+        image: /images/hidro1.jpeg
         image_alt: Feature 2 placeholder image
         image_position: left
         actions:
