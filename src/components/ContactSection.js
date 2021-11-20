@@ -29,7 +29,7 @@ export default class ContactSection extends React.Component {
                             <input aria-labelledby="email-label" type="email" name="email" id="email" placeholder="Su correo" required />
                         </div>
                         <div className="form-group">
-                            <label htmlFor="subject">motivo</label>
+                            <label htmlFor="subject">Motivo del contacto</label>
                             <div className="form-select-wrap">
                                 <select name="subject" id="subject">
                                     <option value="">Please select</option>
