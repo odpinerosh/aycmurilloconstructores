@@ -22,7 +22,7 @@ export default class ContactSection extends React.Component {
                         </div>
                          <div className="form-group">
                             <label id="phone-label" htmlFor="phone">Móvil</label>
-                            <input aria-labelledby="email-label" type="email" name="email" id="email" placeholder="Su correo" required />
+                            <input aria-labelledby="phone-label" type="email" name="email" id="email" placeholder="Su correo" required />
                         </div>
                         <div className="form-group">
                             <label id="email-label" htmlFor="email">Correo electrónico</label>
