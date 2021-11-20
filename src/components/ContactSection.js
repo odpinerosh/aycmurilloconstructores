@@ -45,7 +45,7 @@ export default class ContactSection extends React.Component {
                         </div>
                         <div className="form-group form-checkbox">
                             <input aria-labelledby="consent-label" type="checkbox" name="consent" id="consent" />
-                            <label id="consent-label" htmlFor="consent">I understand that this form is storing my submitted information so I can be contacted.</label>
+                            <label id="consent-label" htmlFor="consent">Entiendo que la información que envío se almacena únicamente para </label>
                         </div>
                         <div className="form-submit">
                             <button type="submit" className="button">Get In Touch</button>
