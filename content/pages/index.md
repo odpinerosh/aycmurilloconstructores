@@ -3,9 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: AyC Murillo Constructores
-    subtitle: >-
-      Somos una empresa colombiana dedicada a ofrecer los mejores servicios de
-      construcción, mantenimiento, reparaciones y ornamentación.
+    subtitle: Somos una empresa colombiana dedicada a ofrecer los
     actions:
       - label: Más información
         url: /features
