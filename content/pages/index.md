@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: AyC Murillo Constructores +57(320) 217-2911
+    title: +57(320) 217-2911
     subtitle: Somos una empresa colombiana dedicada a ofrecer los
     actions:
       - label: Más información
