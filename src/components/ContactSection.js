@@ -34,7 +34,7 @@ export default class ContactSection extends React.Component {
                                 <select name="subject" id="subject">
                                     <option value="">Seleccione</option>
                                     <option value="Cotizacion">Solicitud de contización</option>
-                                    <option value="Garantia">Partnerships</option>
+                                    <option value="Garantia">Solicitud de Garantía</option>
                                     <option value="Other">Other</option>
                                 </select>
                             </div>
