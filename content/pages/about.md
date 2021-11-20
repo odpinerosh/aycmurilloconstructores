@@ -15,7 +15,7 @@ sections:
       - content/data/team/hanson-deck.yaml
       - content/data/team/gordon-norman.yaml
   - type: cta_section
-    title: Join the Team
+    title: ¡Cuente con nosotros!
     subtitle: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.'
     actions:
       - label: Contact Us
