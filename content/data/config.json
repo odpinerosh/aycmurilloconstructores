@@ -1,5 +1,5 @@
 {
-    "title": "Stackbit Starter Theme",
+    "title": "AyC Murillo Constructores",
     "path_prefix": "/",
     "header": {
         "title": "AyC Murillo Constructores",
@@ -13,11 +13,6 @@
             {
                 "label": "Servicios",
                 "url": "/features",
-                "style": "link"
-            },
-            {
-                "label": "Proyectos",
-                "url": "/blog",
                 "style": "link"
             },
             {
@@ -66,5 +61,5 @@
         ],
         "content": "2021 © AyC Murillo Constructores - Bogotá, Colombia. / <a href=\"https://odpinerosh.github.io/odph\" target=_blank>{odph}</a>"
     },
-    "domain": "https://aycmurilloconstructores-7ee04.netlify.app"
+    "domain": "https://aycmurilloconstructores.netlify.app"
 }

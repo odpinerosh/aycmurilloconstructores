@@ -82,10 +82,10 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Stackbit Starter Theme
+      value: AyC Murillo Constructores
       keyName: property
     - name: 'og:description'
-      value: The preview of the Starter theme
+      value: servicios especializados en construcción, mantenimiento, reparaciones, instalaciones y ornamentación
       keyName: property
     - name: 'og:image'
       value: images/starter-preview.png
@@ -96,7 +96,7 @@ seo:
     - name: 'twitter:title'
       value: Stackbit Starter Theme
     - name: 'twitter:description'
-      value: The preview of the Starter theme
+      value: servicios especializados en construcción, mantenimiento, reparaciones, instalaciones y ornamentación
     - name: 'twitter:image'
       value: images/starter-preview.png
       relativeUrl: true

@@ -18,8 +18,8 @@ sections:
     has_background: true
     background_color: blue
 seo:
-  title: Who We Are
-  description: This is the about us page
+  title: Quiénes somos
+  description: Quién es Ayc Murillo Constructores
   extra:
     - name: 'og:type'
       value: website
@@ -28,7 +28,7 @@ seo:
       value: Who We Are
       keyName: property
     - name: 'og:description'
-      value: This is the about us page
+      value: Quién es Ayc Murillo Constructores
       keyName: property
     - name: 'og:image'
       value: images/1.png
@@ -39,7 +39,7 @@ seo:
     - name: 'twitter:title'
       value: Who We Are
     - name: 'twitter:description'
-      value: This is the about us page
+      value: Quién es Ayc Murillo Constructores
     - name: 'twitter:image'
       value: images/1.png
       relativeUrl: true

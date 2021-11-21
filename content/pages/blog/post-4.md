@@ -2,13 +2,12 @@
 title: Vos Autem Cum Perspicuis Dubia Debeatis Illustrare
 date: '2020-05-30'
 author: content/data/team/dianne-ameter.yaml
-categories:
-  - content/data/categories/tutorials.yaml
-  - content/data/categories/news.yaml
+categories: []
+  
 tags:
   - JAMstack
   - Sourcebit
-image: images/4.png
+image: images/pro20153.jpeg
 image_alt: Post 4 placeholder image
 excerpt: >-
   Itaque hoc frequenter dici solet a vobis, non intellegere nos, quam dicat
