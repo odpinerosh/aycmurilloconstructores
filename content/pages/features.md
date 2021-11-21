@@ -14,7 +14,7 @@ sections:
           Somos expertos en pintura, enchape, terminados de techos en PVC,
           dry-wall e instalaciones eléctricas residenciales
         align: left
-        image: images/feature.svg
+        image: images/locat1.jpeg
         image_alt: Feature 1 placeholder image
         image_position: right
         actions: []
@@ -23,7 +23,7 @@ sections:
           Instalaciones hidráulicas completas para el hogar, plomería,
           impermeabilización y curado de filtraciones.
         align: left
-        image: images/feature.svg
+        image: images/hidro1.jpeg
         image_alt: Feature 2 placeholder image
         image_position: left
         actions: []
@@ -32,12 +32,12 @@ sections:
           Estructuras en concreto, mampostería, pañete, estuco, soldadura
           eléctrica  y MIG.
         align: left
-        image: images/feature.svg
+        image: images/ornam1.jpeg
         image_alt: Feature 3 placeholder image
         image_position: right
         actions:
-          - label: Learn More
-            url: /blog
+          - label: Contacto
+            url: /contact
             style: primary
 seo:
   title: Features

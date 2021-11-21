@@ -32,7 +32,7 @@ sections:
           Somos expertos en pintura, enchape, terminados de techos en PVC,
           dry-wall e instalaciones eléctricas residenciales
         align: left
-        image: images/feature.svg
+        image: images/locat2.jpeg
         image_alt: Feature 1 placeholder image
         image_position: right
         actions:
@@ -44,7 +44,7 @@ sections:
           Instalaciones hidráulicas completas para el hogar, plomería,
           impermeabilización y curado de filtraciones.
         align: left
-        image: /images/hidro2.jpeg
+        image: /images/hidros1.jpeg
         image_alt: Feature 2 placeholder image
         image_position: left
         actions:
@@ -56,31 +56,27 @@ sections:
           Estructuras en concreto, mampostería, pañete, estuco, soldadura
           eléctrica  y MIG.
         align: left
-        image: images/feature.svg
+        image: images/construc1.jpeg
         image_alt: Feature 3 placeholder image
         image_position: right
         actions:
           - label: Ver más
             url: /features
             style: secondary
-  - type: blog_feed_section
-    title: Proyectos
-    show_recent: true
-    recent_count: 3
+  
   - type: cta_section
-    title: This Is A CTA
+    title: ¡Cuente con nosotros!
     subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+      Vamos a trabajar juntos haciendo realidad sus proyectos de construcción y mantenimiento.
     actions:
-      - label: Learn More
-        url: /features
+      - label: Contacto
+        url: /contact
         style: primary
     has_background: true
     background_color: gray
 seo:
-  title: Stackbit Starter Theme
-  description: The preview of the Starter theme
+  title: AyC Murillo Constructores
+  description: construcción mantenimiento hidráulica manpostería estructuras remodelación
   extra:
     - name: 'og:type'
       value: website

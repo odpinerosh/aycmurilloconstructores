@@ -91,7 +91,7 @@ export default class Header extends React.Component {
                     <nav className="navbar" aria-label="Main Navigation">
                         <Link className="sr-only" href="#content">Skip to main content</Link>
                         {logo ? <Link className="navbar__logo" href={withPrefix('/')}><img src={withPrefix(logo)} alt={logoAlt} /></Link>
-                            : <Link className="h4 navbar__title" href={withPrefix('/')}>{title}</Link>
+                            : <Link className="h4 navbar__title" href={withPrefix('/')}>{title}<p>📞 +57 (320)217-2911</p></Link>
                         }
                         {hasNav && !_.isEmpty(navLinks) && this.renderNavLinks(navLinks, pageUrl)}
                     </nav>
